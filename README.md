@@ -1,0 +1,2 @@
+# NovelVIsta-MVCBookStoreApp
+MVC architecture
